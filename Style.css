@@ -25,4 +25,11 @@
 }
 p{
     text-align: justify;
-}   
+}  
+.end{
+    border: 10px solid rgba(148, 31, 184, 0.883);
+    text-align: center;
+    border-radius: 12px;
+    width: 20%;
+    margin-left: 607px;
+} 
